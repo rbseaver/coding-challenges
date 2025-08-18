@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"vitest.explorer",
+			"deinsoftware.vitest-snippets"
+		]
+	}
+}
