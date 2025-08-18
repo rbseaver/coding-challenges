@@ -1,1 +1,5 @@
-console.log("Hello World", process.argv[2]);
+function main() {
+  console.log(process.argv[2]);
+}
+
+export { main }
